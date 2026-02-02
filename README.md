@@ -17,10 +17,10 @@
 Файл базы рядом с программой: `taskbill.db`
 
 ## Сборка в .exe (Windows)
-Смотри `build_windows.bat`
+Запусти `build_windows.bat`
 
 ## Сборка (macOS / Linux)
-Смотри `build_linux_mac.sh`
+Запусти `build_linux_mac.sh`
 
 ## Лицензия
-Смотри `LICENSE.txt`
+`MIT LICENSE`
