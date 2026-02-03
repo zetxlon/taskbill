@@ -16,7 +16,7 @@
 ## Где лежат данные
 Файл базы рядом с программой: `taskbill.db`
 
-## Сборка в .exe (Windows)
+## Сборка в exe (Windows)
 Запусти `build_windows.bat`
 
 ## Сборка (macOS / Linux)
